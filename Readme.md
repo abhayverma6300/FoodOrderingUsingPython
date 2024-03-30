@@ -19,7 +19,7 @@ The `script.py` file contains the main code for the order management system. It 
 1. Clone the repository:
 
     ```
-    git clone 'https://github.com/abhayverma6300/FoodOrderingUsingPython.git'
+    git clone https://github.com/abhayverma6300/FoodOrderingUsingPython.git
     cd 'FoodOrderingUsingPython'
     ```
 
