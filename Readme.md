@@ -20,7 +20,7 @@ The `script.py` file contains the main code for the order management system. It 
 
     ```
     git clone https://github.com/abhayverma6300/FoodOrderingUsingPython.git
-    cd 'FoodOrderingUsingPython'
+    cd FoodOrderingUsingPython
     ```
 
 2. Ensure all necessary Python scripts are present in the directory.
